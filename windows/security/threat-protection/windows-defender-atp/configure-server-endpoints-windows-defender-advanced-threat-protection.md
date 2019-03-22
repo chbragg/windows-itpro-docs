@@ -178,7 +178,7 @@ For other server versions, you have two options to offboard servers from the ser
 >[!NOTE]
 >Offboarding causes the server to stop sending sensor data to the portal but data from the server, including reference to any alerts it has had will be retained for up to 6 months.
 
-### Uninstall servers by uinstalling the MMA agent
+### Uninstall servers by uninstalling the MMA agent
 To offboard the server, you can uninstall the MMA agent from the server or detach it from reporting to your Windows Defender ATP workspace. After offboarding the agent, the server will no longer send sensor data to Windows Defender ATP.
 For more information, see [To disable an agent](https://docs.microsoft.com/azure/log-analytics/log-analytics-windows-agents#to-disable-an-agent).
 
